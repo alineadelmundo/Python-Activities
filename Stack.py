@@ -1,8 +1,5 @@
 #EXERCISE NO. 6 - STACK
 #Alinea Grace M. Del Mundo
-#github.com/aubreybaes
-#This program sorts your playlist  either by name (alphabetical order) or by time (from the recently added up to the the oldest one)
-# and displays the currently playing song and the next song at the same time
 
 class Stack:
     def __init__(self):
