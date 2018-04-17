@@ -1,7 +1,6 @@
-#Paul Khirby B. Fortea
+#Alinea Grace Del Mundo
 #Cpe Petition
 #Data Structure
-#Calculator
 
 
 
