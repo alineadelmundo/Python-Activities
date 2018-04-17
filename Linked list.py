@@ -49,7 +49,7 @@ class Linked_List :
 
 w = Linked_List()
 
-w.add( "Alinea  " ), w.add( "Pretty " ), w.add( "Ako si  " ), w.add( "Hi, " )
+w.add( "Alinea  " ), w.add( "Pretty " ), w.add( "Sana makapagbakasyon na si  " ), w.add( "Haaaaaay, " )
 print (w)
 
 w.remove( w.search( "Pretty " ) )
